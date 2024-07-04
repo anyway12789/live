@@ -10,7 +10,7 @@ CGTN阿语#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 https://stream1.freetv.fun/5808bb6d7555ba5a01c1cef1f9b1e2dbe957d065add9706ff85320accac8cebf.m3u8
 
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育1
+#EXTINF:-1 tvg-name="CCTV5(1)" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育1
 http://123.183.79.248:808/hls/78/index.m3u8
 
 
