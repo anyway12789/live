@@ -17,6 +17,15 @@ https://stream1.freetv.fun/5808bb6d7555ba5a01c1cef1f9b1e2dbe957d065add9706ff8532
 #EXTINF:-1 tvg-name="CCTV5(1)" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育1
 http://123.183.79.248:808/hls/78/index.m3u8
 
+#EXTINF:-1 tvg-name="CCTV5(2)" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育2
+https://stream1.freetv.fun/9dd856a16138c1ec7c16aa3f939b05cda79ea7c92dbd281d2b12cc0ca9447250.m3u8
+
+#EXTINF:-1 tvg-name="CCTV5(3)" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育3
+https://stream1.freetv.fun/641553d49a491054b923f0416c2084435d44d05a98599f3317f465f70da78480.m3u8
+
+#EXTINF:-1 tvg-name="CCTV5(4)" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育4
+https://stream1.freetv.fun/df06602e1779477faa4dc8f2584e549a3c6bb05e6f471505e3cec5aff75307bd.m3u8
+
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
 https://stream1.freetv.fun/96ab1bb99e9c71e69972e5406721a1970fa437c2723ca1f75132b0296923f977.m3u8
 
